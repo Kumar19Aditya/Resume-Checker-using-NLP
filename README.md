@@ -99,3 +99,5 @@ Follow these steps to set up the project locally:
 
 ## Conclusion
 This project showcases a resume screening application built using Natural Language Processing (NLP) techniques. By applying Logistic Regression, the model achieved an impressive accuracy of over 95%. The performance of the application can be further improved by training it with more extensive datasets. Additionally, the project has been deployed using Streamlit to provide a user-friendly interface, with future potential for deployment on cloud platforms for enhanced scalability and accessibility
+
+reference=https://www.youtube.com/@611aiwithnoor
