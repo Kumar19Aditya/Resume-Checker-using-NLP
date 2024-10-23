@@ -79,3 +79,17 @@ Follow these steps to set up the project locally:
 - **Machine Learning Prediction**: Predicts the most suitable job category for the uploaded resume.
 - **User Feedback**: Indicates whether the resume matches the selected job category.
 
+## How it works
+# Image Gallery
+
+## Picture 1
+![Image 1](https://drive.google.com/file/d/1OfZjhHB36bUmJvBog_T_qxw4yKttUQBg/view?usp=sharing)
+
+## Picture 2
+![Image 2](https://drive.google.com/uc?export=view&id=<FILE_ID_2>)
+
+## Picture 3
+![Image 3](https://drive.google.com/uc?export=view&id=<FILE_ID_3>)
+
+## Picture 4
+![Image 4](https://drive.google.com/uc?export=view&id=<FILE_ID_4>)
