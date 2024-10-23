@@ -9,7 +9,7 @@ Here's the complete README code in a single block that you can copy and paste in
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Screenshots](#screenshots)
+- [How it works](#How-it-works)
 - [Conclusion](#conclusion)
 
 
@@ -82,14 +82,20 @@ Follow these steps to set up the project locally:
 ## How it works
 # Image Gallery
 
-## Picture 1
-![Image 1](https://drive.google.com/file/d/1OfZjhHB36bUmJvBog_T_qxw4yKttUQBg/view?usp=sharing)
+## Application Interface
+![Image 1](Images/Step1_Resume.png)
 
-## Picture 2
-![Image 2](https://drive.google.com/uc?export=view&id=<FILE_ID_2>)
+## Choose Desired Job Category
+![Image 2](Images/Step2_Resume.png)
 
-## Picture 3
-![Image 3](https://drive.google.com/uc?export=view&id=<FILE_ID_3>)
+## Upload your Resume in pdf
+![Image 3](Images/step3_Resume.png)
 
-## Picture 4
-![Image 4](https://drive.google.com/uc?export=view&id=<FILE_ID_4>)
+## If the Resume match with your given job category:-
+![Image 4](Images/s4.png)
+
+## If the Resume Doesn't match with your given job categoey
+![Image 4](Images/s5.png)
+
+## Conclusion
+This project showcases a resume screening application built using Natural Language Processing (NLP) techniques. By applying Logistic Regression, the model achieved an impressive accuracy of over 95%. The performance of the application can be further improved by training it with more extensive datasets. Additionally, the project has been deployed using Streamlit to provide a user-friendly interface, with future potential for deployment on cloud platforms for enhanced scalability and accessibility
