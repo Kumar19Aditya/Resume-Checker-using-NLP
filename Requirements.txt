@@ -1,0 +1,5 @@
+numpy
+pandas
+pymupdf
+sklearn
+base64
