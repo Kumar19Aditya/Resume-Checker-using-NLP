@@ -55,7 +55,7 @@ Follow these steps to set up the project locally:
    ```
    Then run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r Requirements.txt
    ```
 
 ## Usage
