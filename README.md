@@ -42,7 +42,7 @@ Follow these steps to set up the project locally:
    ```
 
 2. **Install Required Libraries**:
-   Create a `requirements.txt` file in your project directory with the following content:
+   Create a `Requirements.txt` file in your project directory with the following content:
    ```
    streamlit
    PyPDF2
